@@ -9,6 +9,6 @@ It involves creating and managing a database.
 You can navigate through the menu and select the option you would like to try. 
 The while loop enables the user to complete multiple actions before exiting the program.
 
-## Instalation section
-You can download the program under the main branch of this project:
+## Installation section
+You can download the program under the main branch of this repository:
 https://github.com/Marion34-dev/bookstore-database/blob/main/bookstore.py
